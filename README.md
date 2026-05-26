@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/real-love-never-ends/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Real Love Never Ends](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/real-love-never-ends/) |
+| **Get License** | [Get a Licensing Quote for Real Love Never Ends](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/real-love-never-ends/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `99e7caecf77baacab69d7ab8913876372a6f98512e2c1bf5370a3c9ffb4f6781` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
