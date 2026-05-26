@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/real-love-never-ends/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Real Love Never Ends](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/real-love-never-ends/) |
+| **Get License** | [Request Licensing for Real Love Never Ends](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/real-love-never-ends/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I pour a glass of midnight and slide across the floor
+> I see your silhouette dancing right outside my door
+> I pull you in closer, our shadows start to blend
+> Tonight I am going to show you real love never ends
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
